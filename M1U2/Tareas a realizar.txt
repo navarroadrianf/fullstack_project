@@ -1,2 +1,3 @@
+Tareas a realizar para avanzar con el proyecto:
 - investigar sobre Git
 - buscar imágenes para crear el Web Site
